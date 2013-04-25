@@ -19,4 +19,4 @@ resources:
   bugtracker: git://github.com/rodrigolive/getopt-mini.git/issues
   homepage: http://search.cpan.org/dist/Getopt-Mini/
   repository: git://github.com/rodrigolive/getopt-mini.git
-version: 0.01
+version: 0.02
